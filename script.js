@@ -10,8 +10,8 @@ const CATEGORIES = [
 const ITEMS = [
   { id:'b1', title:'Classic Burger', price:220, category:'fast', img:'https://images.unsplash.com/photo-1550547660-d9450f859349?q=80&w=1200&auto=format&fit=crop' },
   { id:'d1', title:'Iced Latte', price:150, category:'drinks', img:'https://images.unsplash.com/photo-1497515114629-f71d768fd07c?q=80&w=1200&auto=format&fit=crop' },
-  { id:'s1', title:'Chocolate Sundae', price:160, category:'desserts', img:'https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1200&auto=format&fit=crop' },
-  { id:'s2', title:'Cheesecake', price:200, category:'desserts', img:'https://images.unsplash.com/photo-1519861531473-9200262188bf?q=80&w=1200&auto=format&fit=crop' },
+  { id:'s1', title:'Chocolate Sundae', price:160, category:'desserts',   img: 'https://plus.unsplash.com/premium_photo-1664392077131-a6f2a38d812a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fA%3D%3D&auto=format&fit=crop&q=80&w=1200'},
+  { id:'s2', title:'Cheesecake', price:200, category:'desserts',   img: 'https://images.unsplash.com/photo-1524351199678-941a58a3df50?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1200'},
   { id:'h1', title:'Grilled Chicken Salad', price:260, category:'healthy', img:'https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=1200&auto=format&fit=crop' },
   { id:'h2', title:'Avocado Toast', price:240, category:'healthy', img:'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=1200&auto=format&fit=crop' },
 ];
