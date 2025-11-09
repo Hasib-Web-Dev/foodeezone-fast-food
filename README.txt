@@ -17,3 +17,6 @@ How to run:
 Notes:
 - LocalStorage keys used: "budget-foodget.cart" and "budget-foodget.reviews".
 - Delivery is free over ৳299; otherwise ৳40. Modify in script.js if needed.
+
+
+Live Site: https://hasib-web-dev.github.io/foodeezone-fast-food/
